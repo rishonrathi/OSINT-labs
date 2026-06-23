@@ -2,7 +2,7 @@
 
 Welcome to my documentation and practice workspace for cybersecurity concepts. This repository tracks my hands-on learning progress.
 
-## 🌐 Day 2: Networking & OSINT
+## 🌐 Networking & OSINT
 
 ### 📘 Core Networking Concepts Learned
 * **TCP/IP**: Mastered the foundational suite of communication protocols powering the internet.
