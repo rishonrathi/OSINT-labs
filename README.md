@@ -21,8 +21,11 @@ Welcome to my documentation and practice workspace for cybersecurity concepts. T
 ---
 
 ### 🧪 Practical Lab Applications
-Here are the open-source tools I deployed to execute my threat intelligence research:
 
+## ⚠️ Educational Disclaimer
+All labs were conducted strictly within a controlled, authorized environment for educational and defensive learning purposes.
+
+Here are the open-source tools I deployed to execute my threat intelligence research:
 * [crt.sh](https://crt.sh) – Queried public Certificate Transparency logs to find subdomains.
 * [DNSDumpster](https://dnsdumpster.com) – Mapped out host records and discovered attack surfaces.
 * [Shodan](https://shodan.io) – Explored internet-connected IoT devices and open server ports.
